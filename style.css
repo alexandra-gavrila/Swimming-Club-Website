@@ -1,0 +1,129 @@
+#container{
+	width:1024px;
+	height:768px;
+	background-color:#6699FF;
+	margin:auto;
+	}
+	
+#header{
+	width:1024px;
+	height:100px;
+	}
+
+#logo{
+	width:175px;
+	height:100px;
+	float:left;
+	padding-left:75px;
+	}
+	
+#banner{
+	width:774px;
+	height:100px;
+	float:right;
+	font-size:22px;
+	color: white;
+	}
+	
+#menu{
+	width:1024px;
+	height:42px;
+	clear:both;
+	font-size:18px;
+	}
+	
+#content{
+	width: 944px;
+	height:568px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: fully-justify;
+	font-size: 16px;
+	background-image: url(Images/Synchro2.jpg);
+	background-size: auto;
+	padding-left:80px;
+	}
+	
+#left{
+	width:462px;
+	height:568px;
+	float:left;
+	}
+	
+#right{
+	width:452px;
+	height:568px;
+	float:right;
+	}
+	
+#footer{
+	width:1024px;
+	height:50px;
+	text-align:center;
+	color:white;
+	clear:both;
+	}
+	
+#copyright{
+	width:512px;
+	height:50px;
+	}
+
+#links {
+	width:512px;
+	height:50px;
+	text-align:left;
+	color: #FFFF99;
+	clear:both;
+}
+
+#menu a:link{
+    color: #6699FF; 
+    background-color: #FC6;
+    text-decoration: none;
+}
+
+#menu a:visited{
+    color: #FF3300;
+    background-color: #009;
+    text-decoration: none;
+}
+
+#menu a:hover{
+    color: white;
+    background-color: #009;
+    text-decoration: underline;
+}
+
+#menu a:active{
+    color: #FF3300;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#menu ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    overflow: hidden;
+}
+
+#menu li{
+    float: left;
+}
+
+#menu li a{
+    display: inline-block;
+    color: black;
+    text-align: center;
+	padding:10px 82.42px;
+    text-decoration: none;
+	
+}
+
+#menu li a:hover{
+    background-color: #FB8713;
+}
+
+h1{
+	font-family: "Times New Roman", Times, serif;
+	}
